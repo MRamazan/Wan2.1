@@ -1,4 +1,4 @@
-# Wan2.1
+# Wan2.1　(flash_attn removed for enviroment compatibility)
 
 <p align="center">
     <img src="assets/logo.png" width="400"/>
